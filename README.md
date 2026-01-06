@@ -1,5 +1,14 @@
-# 💫 About Me:
-I’m currently working on data analysis projects using Python, SQL, Excel, and Power BI.<br>I’m looking to collaborate on data analysis projects, dashboards, and beginner-friendly open-source projects.<br>I’m looking for help with improving my SQL queries, Python best practices, and real-world data projects.<br>I’m currently learning advanced SQL, Python for data analysis, Power BI, and core software engineering concepts.<br>Ask me about data analysis, Python, SQL, Excel, Power BI, and beginner software engineering concepts.<br>Fun fact: I enjoy turning raw data into meaningful insights.<br>
+
+## 👋 About Me
+
+I am a Data Analyst and a BS Software Engineering student with a strong interest in working with data and building practical solutions.
+
+- 🔭 Currently working on data analysis projects using Python, SQL, Excel, and Power BI  
+- 🤝 Looking to collaborate on data analysis projects, dashboards, and beginner-friendly open-source projects  
+- 🧠 Learning advanced SQL, Python for data analysis, Power BI, and core software engineering concepts  
+- 💬 Ask me about data analysis, Python, SQL, Excel, Power BI, and basic software engineering  
+- ⚡ Fun fact: I enjoy turning raw data into meaningful insights
+ insights.<br>
 
 
 ## 🌐 Socials:
